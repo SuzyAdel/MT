@@ -3,7 +3,7 @@
 ## 📌 Best Models  
 After multiple experiments (some successful, some disastrous), these **two models** turned out the best:  
 
-- [📜 Fixed Seq2Seq Transformer Notebook (1)](Fixed_Seq2Seq_Transformer_Notebook (1).ipynb)  
+- [📜 Fixed Seq2Seq Transformer Notebook (1)](Fixed_Seq2Seq_Transformer_Notebook(1).ipynb)  
 - [📜 Seq2Seq & Machine Translation (8)](Seq2Seq&Machine_Translation(8).ipynb)  
 
 ---
